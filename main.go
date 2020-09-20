@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 	"math"
-	rect "basics/rectangle"
-	conc "basics/concurrency"
+	rect "gobasics/rectangle"
+	conc "gobasics/concurrency"
 	"encoding/json"
 )
 
